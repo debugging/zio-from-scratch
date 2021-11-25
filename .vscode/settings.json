@@ -8,5 +8,8 @@
         ".metals/": true,
         ".bloop/": true,
         "**/target/": true
+    },
+    "files.watcherExclude": {
+        "**/target": true
     }
 }
